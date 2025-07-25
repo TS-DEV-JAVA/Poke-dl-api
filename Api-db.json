@@ -256,11 +256,406 @@
     }
   ],
   "Pokemon Indigo League": [
-    {
-      "episode": "Episode 1",
-      "title": "Pokémon - I Choose You!",
-      "url": "https://v2.pkflx.com/hls/01-indigo-league/01/playlist.m3u8"
-    }
+  {
+    "episode": "Episode 1",
+    "title": "Pokémon - I Choose You!",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/01/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 2",
+    "title": "Pokémon Emergency!",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/02/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 3",
+    "title": "Ash Catches a Pokémon",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/03/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 4",
+    "title": "Challenge of the Samurai",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/04/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 5",
+    "title": "Showdown in Pewter City",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/05/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 6",
+    "title": "Clefairy and the Moon Stone",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/06/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 7",
+    "title": "The Water Flowers of Cerulean City",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/07/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 8",
+    "title": "The Path to the Pokémon League",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/08/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 9",
+    "title": "The School of Hard Knocks",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/09/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 10",
+    "title": "Bulbasaur and the Hidden Village",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/10/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 11",
+    "title": "Charmander – The Stray Pokémon",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/11/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 12",
+    "title": "Here Comes the Squirtle Squad",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/12/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 13",
+    "title": "Mystery at the Lighthouse",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/13/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 14",
+    "title": "Electric Shock Showdown",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/14/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 15",
+    "title": "Battle Aboard the St. Anne",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/15/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 16",
+    "title": "Pokémon Shipwreck",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/16/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 17",
+    "title": "Island of the Giant Pokémon",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/17/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 18",
+    "title": "Beauty and the Beach",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/18/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 19",
+    "title": "Tentacool & Tentacruel",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/19/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 20",
+    "title": "The Ghost of Maiden's Peak",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/20/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 21",
+    "title": "Bye Bye Butterfree",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/21/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 22",
+    "title": "Abra and the Psychic Showdown",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/22/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 23",
+    "title": "The Tower of Terror",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/23/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 24",
+    "title": "Haunter versus Kadabra",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/24/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 25",
+    "title": "Primeape Goes Bananas",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/25/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 26",
+    "title": "Pokémon Scent-sation!",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/26/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 27",
+    "title": "Hypno's Naptime",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/27/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 28",
+    "title": "Pokémon Fashion Flash",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/28/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 29",
+    "title": "The Punchy Pokémon",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/29/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 30",
+    "title": "Sparks Fly for Magnemite",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/30/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 31",
+    "title": "Dig Those Diglett!",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/31/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 32",
+    "title": "The Ninja Poké-Showdown",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/32/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 33",
+    "title": "The Flame Pokémon-athon!",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/33/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 34",
+    "title": "The Kangaskhan Kid",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/34/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 35",
+    "title": "The Legend of Dratini",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/35/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 36",
+    "title": "Ditto's Mysterious Mansion",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/36/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 37",
+    "title": "The Battling Eevee Brothers",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/37/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 38",
+    "title": "Electric Soldier Porygon",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/38/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 39",
+    "title": "Wake Up Snorlax!",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/39/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 40",
+    "title": "Showdown at Dark City",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/40/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 41",
+    "title": "March of the Ice Cave",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/41/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 42",
+    "title": "The Misty Mermaid",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/42/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 43",
+    "title": "A Chansey Operation",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/43/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 44",
+    "title": "The Pi-Kahuna",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/44/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 45",
+    "title": "Beach Blank-Out Blastoise",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/45/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 46",
+    "title": "Princess vs. Princess",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/46/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 47",
+    "title": "Hypno's Naptime",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/47/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 48",
+    "title": "The Pokémon Water War",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/48/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 49",
+    "title": "The Ice Cave",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/49/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 50",
+    "title": "Holiday Hi-Jynx",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/50/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 51",
+    "title": "Snow Way Out!",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/51/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 52",
+    "title": "Showdown at the Po-ké Corral",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/52/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 53",
+    "title": "Sparks Fly for Magnemite",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/53/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 54",
+    "title": "The Punchy Pokémon",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/54/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 55",
+    "title": "Volcanic Panic",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/55/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 56",
+    "title": "Beach Blank-Out Blastoise",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/56/playlist.m3u8"
+  },
+{
+    "episode": "Episode 57",
+    "title": "The Lost Lapras",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/57/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 58",
+    "title": "A Tent Situation",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/58/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 59",
+    "title": "The Bridge Bike Gang",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/59/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 60",
+    "title": "Ditto's Mysterious Mansion",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/60/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 61",
+    "title": "The Ninja Poké-Showdown",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/61/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 62",
+    "title": "The Fire Fighters",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/62/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 63",
+    "title": "Ninja Training",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/63/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 64",
+    "title": "The Battle of the Badge",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/64/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 65",
+    "title": "Showdown at the Pokémon League",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/65/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 66",
+    "title": "The Fourth Round!",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/66/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 67",
+    "title": "A Friend in Deed",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/67/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 68",
+    "title": "Friend and Foe Alike",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/68/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 69",
+    "title": "Friends to the End",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/69/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 70",
+    "title": "Lights, Camera, Quack-tion",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/70/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 71",
+    "title": "Go West Young Meowth",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/71/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 72",
+    "title": "To Master the Mirage",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/72/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 73",
+    "title": "Party On!",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/73/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 74",
+    "title": "Goodbye, Pikachu?",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/74/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 75",
+    "title": "The Breeding Center Secret",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/75/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 76",
+    "title": "Hypno's Naptime",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/76/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 77",
+    "title": "Pokémon Fashion Flash",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/77/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 78",
+    "title": "The Ultimate Test",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/78/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 79",
+    "title": "The Rivalry Revival",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/79/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 80",
+    "title": "The Final Battle",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/80/playlist.m3u8"
+  }
   ],
   "Placeholder 1": [
     {
