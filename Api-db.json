@@ -660,8 +660,13 @@
   "Pokémon Advanced": [
     {
       "episode": "Episode 1",
+      "title": "Get the Show on the Road!",
+      "url": "https://v2.pkflx.com/hls/06-advanced/01/playlist.m3u8"
+    },
+    {
+      "episode": "Episode 2",
       "title": "This is a fake placeholder",
-      "url": "https://example.com/placeholder1.m3u8"
+      "url": "https://v2.pkflx.com/hls/06-advanced/01/playlist.m3u8"
     }
   ],
   "Pokémon Horizons": [
