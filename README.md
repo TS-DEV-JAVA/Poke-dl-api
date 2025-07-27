@@ -16,6 +16,7 @@ Best api for pokemon animie, more of a db
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat&logo=github)](https://github.com/TS-DEV-JAVA/Poke-dl-api/issues)
 
 # Usage:
-make a simple api server, you can get an example is made [**here**](here)
-then host this url on it:
-
+- make a simple api server, you can get an example is made [**here**](here)
+- then host this url on it:
+[**https://raw.githubusercontent.com/TS-DEV-JAVA/Poke-dl-api/refs/heads/main/Api-db.json**](https://raw.githubusercontent.com/TS-DEV-JAVA/Poke-dl-api/refs/heads/main/Api-db.json)
+- if you liked this project, definitely check out poke-dl [**here**](https://github.com/ts-dev-java/poke-dl)
