@@ -1,7 +1,7 @@
 # Poke DL Api
 Best api for pokemon animie, more of a db
 ### poke-dl-api
-[banner](https://files.catbox.moe/inxmxi.png)
+![banner](https://files.catbox.moe/inxmxi.png)
 [![License](https://img.shields.io/github/license/ts-dev-java/Poke-dl-api?style=flat)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/TS-DEV-JAVA/Poke-dl-api?style=flat)](https://github.com/ts-dev-java/Poke-dl-api/stargazers)
 [![Forks](https://img.shields.io/github/forks/TS-DEV-JAVA/Poke-dl-api?style=flat)](https://github.com/ts-dev-java/Poke-dl-api/network/members)
