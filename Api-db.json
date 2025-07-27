@@ -655,8 +655,18 @@
     "episode": "Episode 80",
     "title": "The Final Battle",
     "url": "https://v2.pkflx.com/hls/01-indigo-league/80/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 81",
+    "title": "Friends and Foe Alike",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/81/playlist.m3u8"
+  },
+  {
+    "episode": "Episode 82",
+    "title": "Friends to the End",
+    "url": "https://v2.pkflx.com/hls/01-indigo-league/82/playlist.m3u8"
   }
-  ],
+   ],
   "Pokémon Advanced": [
     {
       "episode": "Episode 1",
