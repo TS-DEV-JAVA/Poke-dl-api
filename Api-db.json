@@ -657,6 +657,7 @@
     "url": "https://v2.pkflx.com/hls/01-indigo-league/80/playlist.m3u8"
   }
   ],
+{
   "Pokémon Advanced": [
     {
       "episode": "Episode 1",
@@ -670,6 +671,13 @@
     }
   ],
   "Pokémon Horizons": [
+    {
+      "episode": "Episode 1",
+      "title": "Another fake episode",
+      "url": "https://example.com/placeholder2.m3u8"
+    }
+  ],
+  "Pokémon Advanced Battle": [
     {
       "episode": "Episode 1",
       "title": "Another fake episode",
