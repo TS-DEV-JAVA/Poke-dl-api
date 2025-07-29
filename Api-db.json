@@ -709,18 +709,18 @@
       "url": "https://v2.pkflx.com/hls/06-advanced/01/playlist.m3u8"
     }
   ],
-  "Pokémon Horizons": [
-    {
-      "episode": "Episode 1",
-      "title": "Another fake episode",
-      "url": "https://example.com/placeholder2.m3u8"
-    }
-  ],
   "Pokémon Advanced Battle": [
     {
       "episode": "Episode 1",
-      "title": "Another fake episode",
-      "url": "https://example.com/placeholder2.m3u8"
+      "title": "Clamperl of Wisdom",
+      "url": "https://v1.pkflx.com/hls/08-advanced-battle/01/playlist.m3u8"
+    }
+  ],
+  "Pokémon Horizons": [
+    {
+      "episode": "Episode 1",
+      "title": "The Pendant That Starts It All: Part One...",
+      "url": "https://v1.pkflx.com/hls/26-horizons/01/playlist.m3u8"
     }
   ],
   "Pokémon Sun and Moon": [
@@ -733,6 +733,18 @@
      "episode": "Episode 2",
      "title": "The Guardian's Challenge!",
     "url": "https://v1.pkflx.com/hls/20-sun-moon/02/playlist.m3u8"
+   }
+ ],
+   "Pokémon Sun and Moon Ultra Adventures": [
+   {
+     "episode": "Episode 1",
+     "title": "A Dream Encounter!",
+    "url": "https://v3.pkflx.com/hls/21-sun-moon-ultra-adventures/01/playlist.m3u8"
+   },
+   {
+     "episode": "Episode 2",
+     "title": "Now You See Them, Now You Don't!",
+    "url": "https://v3.pkflx.com/hls/21-sun-moon-ultra-adventures/02/playlist.m3u8"
    }
  ]
 }
