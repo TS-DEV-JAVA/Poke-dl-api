@@ -253,6 +253,36 @@
       "episode": "Episode 1",
       "title": "The Spectral Express!",
       "url": "https://v2.pkflx.com/hls/25-ultimate-journeys/01/playlist.m3u8"
+    },    
+    {
+      "episode": "Episode 2",
+      "title": "The Winding Path to Greatness!",
+      "url": "https://v2.pkflx.com/hls/25-ultimate-journeys/02/playlist.m3u8"
+    },
+    {
+      "episode": "Episode 3",
+      "title": "It’s All in the Name!",
+      "url": "https://v2.pkflx.com/hls/25-ultimate-journeys/03/playlist.m3u8"
+    },
+    {
+      "episode": "Episode 4",
+      "title": "Suffering the Flings and Arrows!",
+      "url": "https://v2.pkflx.com/hls/25-ultimate-journeys/04/playlist.m3u8"
+    },
+    {
+      "episode": "Episode 5",
+      "title": "The Good, The Bad, and The Lucky!",
+      "url": "https://v2.pkflx.com/hls/25-ultimate-journeys/05/playlist.m3u8"
+    },
+    {
+      "episode": "Episode 6",
+      "title": "Lighting the Way Home!",
+      "url": "https://v2.pkflx.com/hls/25-ultimate-journeys/06/playlist.m3u8"
+    },
+    {
+      "episode": "Episode 7",
+      "title": "An Evolution in Taste!",
+      "url": "https://v2.pkflx.com/hls/25-ultimate-journeys/07/playlist.m3u8"
     }
   ],
   "Pokemon Indigo League": [
@@ -692,5 +722,17 @@
       "title": "Another fake episode",
       "url": "https://example.com/placeholder2.m3u8"
     }
-  ]
+  ],
+  "Pokémon Sun and Moon": [
+   {
+     "episode": "Episode 1",
+     "title": "Alola to New Adventure!",
+    "url": "https://v1.pkflx.com/hls/20-sun-moon/01/playlist.m3u8"
+   },
+   {
+     "episode": "Episode 2",
+     "title": "The Guardian's Challenge!",
+    "url": "https://v1.pkflx.com/hls/20-sun-moon/02/playlist.m3u8"
+   }
+ ]
 }
