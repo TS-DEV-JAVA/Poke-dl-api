@@ -930,6 +930,11 @@
      "episode": "Episode 2",
      "title": "Now You See Them, Now You Don't!",
     "url": "https://v3.pkflx.com/hls/21-sun-moon-ultra-adventures/02/playlist.m3u8"
+   },
+   {
+     "episode": "Episode 3",
+     "title": "A Dream Encounter!",
+    "url": "https://v3.pkflx.com/hls/21-sun-moon-ultra-adventures/03/playlist.m3u8"
    }
  ]
 }
