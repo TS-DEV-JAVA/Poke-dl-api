@@ -936,5 +936,22 @@
      "title": "A Dream Encounter!",
     "url": "https://v3.pkflx.com/hls/21-sun-moon-ultra-adventures/03/playlist.m3u8"
    }
+ ],
+   "Pokémon Sun and Moon Ultra Legends": [
+   {
+     "episode": "Episode 1",
+     "title": "Lillier and the Staff!",
+    "url": "https://v3.pkflx.com/hls/22-sun-moon-ultra-legends/01/playlist.m3u8"
+   },
+   {
+     "episode": "Episode 2",
+     "title": "A Haunted House for Everyone!",
+    "url": "https://v3.pkflx.com/hls/22-sun-moon-ultra-legends/02/playlist.m3u8"
+   },
+   {
+     "episode": "Episode 3",
+     "title": "Sparking Confusion!",
+    "url": "https://v3.pkflx.com/hls/22-sun-moon-ultra-legends/03/playlist.m3u8"
+   }
  ]
 }
